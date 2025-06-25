@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 I'm a 3rd-year **CSBS student at SRM University**
+- 🎓 I'm a final year **Computer Science and Business System student at SRM University**
 - 💡 Passionate about solving real-world problems through **tech and innovation**
 - 🌍 Based in **Chennai**
 - 📧 Reach me at: [aankitsatpathy@gmail.com](mailto:aankitsatpathy@gmail.com)
